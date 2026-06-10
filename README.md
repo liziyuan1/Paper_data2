@@ -1,1 +1,0 @@
-data and figure for paper "Ship Hull Positioning and Inclination Attitude Recognition Based on Shaft-rate Frequency Electric Fields"
