@@ -1,0 +1,2 @@
+DREAM_ZS WARNING: MATLAB:nearlySingularMatrix in multivariate R_statistic of Brooks and Gelman at 60 generations
+DREAM_ZS WARNING: MATLAB:nearlySingularMatrix in multivariate R_statistic of Brooks and Gelman at 60 generations
